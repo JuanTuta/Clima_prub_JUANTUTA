@@ -52,3 +52,5 @@ Solución de Problemas
 + Problemas de Permiso: Si no puedes acceder a la ubicación, revisa los permisos en la configuración de tu dispositivo y asegúrate de que la aplicación tenga acceso a la ubicación.
 
 APK y PANTALLAZOS link DRIVE : https://drive.google.com/drive/folders/1mA_eYZY1ohsSSpw1vXCRgOeXYvP1LGff?usp=sharing
+
+¡¡¡EL API ESTA EN EL CODIGO!!! 
